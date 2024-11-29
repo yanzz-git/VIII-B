@@ -1,0 +1,32 @@
+body {
+        background-color: lightblue;
+      }
+      
+      h1 {
+        background-color: white;
+        color: black;
+        outline: auto;
+        outline-color: black;
+        text-align: center;
+        font-family: Segoe UI;
+      }
+      
+      p {
+        font-family: Verdana;
+        font-size: 15px;
+        text-align: center;
+      }
+      
+      span {
+        color: red;
+        background-color: black;
+      }
+      
+      h2 {
+        color: black;
+        background-color: white;
+        margin: 30px;
+        text-align: center;
+        border-radius: 10px;
+        padding: 5px;
+      }
